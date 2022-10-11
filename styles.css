@@ -1,0 +1,20 @@
+#heading, #recipe {
+    color: red;
+    background-color: yellow;
+    text-align: center
+}
+
+.home {
+    height: 400px;
+    width: auto;
+}
+
+.small {
+    width: 500px;
+    height: auto;
+}
+
+
+.describe {
+    text-align: center;
+}
